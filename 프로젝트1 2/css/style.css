@@ -1,0 +1,111 @@
+@import url("./fonts.css");
+@import url("./reset.css");
+@import url("./skip.css");
+#wrap {
+  width: 100%;
+}
+#wrap #header {
+  width: 100%;
+}
+#wrap #header .title-img {
+  width: 100%;
+  height: 271.297px;
+}
+#wrap #header .title-img img {
+  background-size: cover;
+}
+#wrap #header .title-box1 {
+  width: 100%;
+  border-radius: 1px solid #929292;
+}
+#wrap #header .title-box1 .gap {
+  width: 1394px;
+  height: 100%;
+  background: aquamarine;
+  margin: 0 57px;
+}
+#wrap #header .title-box1 .gap .content {
+  width: 283.336%;
+  height: 40.5px;
+}
+#wrap #header .title-box1 .gap .content .log {
+  display: flex;
+  text-align: center;
+  justify-content: start;
+  align-items: center;
+}
+#wrap #header .title-box1 .gap .content .log .li {
+  display: flex;
+}
+#wrap #header .title-box2 {
+  width: 100%;
+  height: 47px;
+}
+#wrap #main {
+  width: 100%;
+  position: relative;
+}
+#wrap #main #section1 {
+  width: 100%;
+  height: 410.14px;
+}
+#wrap #main #section1 img {
+  background-size: cover;
+}
+#wrap #main #section2 {
+  width: 100%;
+  height: 581.797px;
+  background: #c99;
+  padding: 50px 0;
+}
+#wrap #main #section2 .container {
+  position: relative;
+  margin: 0 58.5px;
+}
+#wrap #main #section2 .container .gap {
+  width: 100%;
+  margin: 0 0 30px 0;
+  text-align: center;
+}
+#wrap #main #section2 .container .gap .title {
+  width: 100%;
+  display: inline-block;
+}
+#wrap #main #section2 .container .gap .title h1 {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 45px;
+  color: #683b28;
+}
+#wrap #main #section2 .container .col-gap {
+  width: 100%;
+  position: relative;
+  margin: auto;
+}
+#wrap #main #section2 .container .col-gap .content {
+  width: 100%;
+}
+#wrap #main #section2 .container .col-gap .content ul {
+  display: flex;
+}
+#wrap #main #section2 .container .col-gap .content ul li {
+  margin: 0 25.594px 30px 0;
+}
+#wrap #main #section2 .container .col-gap .content ul li img {
+  width: 100%;
+}
+#wrap #main #section2 .container .col-gap .content ul li img h2 {
+  margin: 5px 0 0 0;
+}
+#wrap #main #section2 .container .col-gap .content ul li img h2 span {
+  font-size: 21px;
+  font-weight: 400;
+  text-align: left;
+  vertical-align: middle;
+  color: #683b28;
+  margin: 0 0 0 5px;
+}
+#wrap #main #section3 {
+  width: 100%;
+  height: 581px;
+}

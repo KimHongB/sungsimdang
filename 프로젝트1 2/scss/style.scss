@@ -1,0 +1,137 @@
+@import url('./fonts.css');
+@import url('./reset.css');
+@import url('./skip.css');
+
+#wrap{
+    width: 100%;
+    
+    #header {
+
+        width: 100%;
+        .title-img {
+            width: 100%;
+            height: 271.297px;
+
+            img {
+                background-size: cover;
+            }
+        }
+        .title-box1 {
+            width: 100%;
+
+            border-radius: 1px solid #929292;
+            .gap {
+            width: 1394px;
+            height: 100%;
+            background: aquamarine;
+            margin: 0 57px;
+                .content {
+                    width: 283.336%;
+                    height: 40.5px;
+                    
+                    .log {
+                        display: flex;
+                        text-align: center;
+                        justify-content: start;
+                        align-items: center;
+                        .li {
+
+                            display: flex;
+
+                            i {
+                       
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .title-box2 {
+            width: 100%;
+            height: 47px;
+
+        }
+    }
+    #main {
+        width: 100%;
+        position: relative;
+        #section1 {
+            width: 100%;
+            height: 410.14px;
+            img {
+                background-size: cover;
+            }
+        }
+        #section2 {
+            width: 100%;
+            height: 581.797px;
+            background: #c99;
+            padding: 50px 0;
+            .container {
+                position: relative;
+                margin: 0 58.5px;
+                .gap {
+                    width: 100%;
+                    margin: 0 0 30px 0;
+                    text-align: center;
+                    .title {
+                        width: 100%;
+                        display: inline-block;
+                            h1 {
+                                font-size: 40px;
+                                font-weight: 500;
+                                line-height: 45px;
+                                color: #683b28;
+
+                            }
+                        }
+                    }
+                .col-gap {
+                    width: 100%;
+                    position: relative;
+                    margin:auto;
+                    .content {
+                        width: 100%;
+                        ul {
+                            display: flex;
+                            li {
+                                margin: 0 25.594px 30px 0;
+                                img {
+                                    width: 100%;
+                                    h2 {
+                                        margin: 5px 0 0 0;
+                                        span {
+                                            font-size: 21px;
+                                            font-weight: 400;
+                                            text-align: left;
+                                            vertical-align: middle;
+                                            color: #683b28;
+                                            margin: 0 0 0 5px;
+                                        }
+                                    }
+                                
+                                }
+                            }
+                        }
+                    
+                }
+                }
+            }
+
+        }
+        #section3 {
+            width: 100%;
+            height: 581px;
+
+        }
+        #section4 {}
+        #section5 {}
+        #section6 {}
+        #section7 {}
+        #section8 {}
+        #section9 {}
+        #section10 {}
+    }
+    #footer {}
+}
